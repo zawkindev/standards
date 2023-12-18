@@ -1,5 +1,5 @@
 - Start Date: 2023-12-18
-- RFC PR: [udc-org/rfcs#1](https://github.com/udc-org/rfcs/pull/1)
+- RFC PR: N/A
 - STD Issue: N/A
 
 # Summary
