@@ -4,35 +4,35 @@
 
 # Summary
 
-The "RFC" (request for comments) process is intended to provide a
+The RFC (request for comments) process is intended to provide a
 consistent and controlled path for new features to enter the project
-and communities, so that whole uzbek it communities with its developers
-can be confident about the direction the uzbek is evolving in.
+and communities so that the whole Uzbek IT community and its developers
+can be confident about the direction the community is evolving in.
 
 # Motivation
 
-The freewheeling way that uzbek developers adopts behaviors from other 
-countries cultures has been good for our developer ecosystem for early 
-development, but for uzbek developer communities to become a mature ecosystem 
-we need to develop some more self-discipline when it comes to changing 
-the system. This is a proposal for a more principled RFC process to make 
-it a more integral part of the overall development process, and one that 
-is followed consistently to introduce standardizations to uzbek communities
+The freewheeling way that Uzbek developers adopt behaviors from other
+countries' cultures has been good for our developer ecosystem in early
+development. However, for Uzbek developer community to become a mature ecosystem
+we need to develop self-discipline when it comes to changing
+the system. This is a proposal for a principled RFC process to make
+it an integral part of the overall development process and one that
+is followed consistently to introduce standardizations to Uzbek communities
 under Uzbek Developer Consortium.
 
 # Detailed design
 
 Many changes, including typo fixes and documentation improvements can be
-implemented and reviewed via the normal GitHub pull request workflow.
+implemented and reviewed via the regular GitHub pull request workflow.
 
-Some changes though are "substantial", and we ask that these be put
+Though some changes are 'substantial', and we ask them to be put
 through a bit of a design process and produce a consensus among the UDC
 community and the [core team].
 
 ## When you need to follow this process
 
-You need to follow this process if you intend to make "substantial"
-changes to the UDC distribution. What constitutes a "substantial"
+You need to follow this process if you intend to make 'substantial'
+changes to the UDC distribution. What constitutes a 'substantial'
 change is evolving based on community norms, but may include the following.
 
    - Any semantic or syntactic change to the standards.
@@ -56,11 +56,11 @@ submit an RFC first.
 In short, to get a major change added to UDC, one must first get the
 RFC merged into the RFC repo as a markdown file. At that point the RFC
 is 'active' and may be implemented with the goal of eventual inclusion
-into main repository consisting all standardizations.
+into the main repository consisting all standardizations.
 
 * Fork the RFC repo https://github.com/udc-org/rfcs
-* Copy `0000-template.md` to `text/0000-my-std.md` (where
-'my-std' is descriptive. don't assign an RFC number yet).
+* Copy `0000-template.md` to `text/0000-my-std.md` (Where
+'my-std' is descriptive. Do not assign an RFC number yet).
 * Fill in the RFC
 * Submit a pull request. The pull request is the time to get review of
 the design from the larger community.
@@ -69,13 +69,13 @@ are much more likely to make progress than those that don't receive any
 comments.
 
 Eventually, somebody on the [core team] will either accept the RFC by
-merging the pull request, at which point the RFC is 'active', or
-reject it by closing the pull request or it wil be reworked later by the
+merging the pull request, at which point the RFC is 'active' or
+rejected by closing the pull request. It may also be reworked later by the
 team and re-submitted on behalf of one of any [core team] members.
 
 Whomever merges the RFC should do the following:
 
-* Assign an id, using the PR number of the RFC pull request. (If the RFC
+* Assign an id using the PR number of the RFC pull request. (If the RFC
   has multiple pull requests associated with it, choose one PR number,
   preferably the minimal one.)
 * Add the file in the `text/` directory.
