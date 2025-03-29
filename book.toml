@@ -4,7 +4,7 @@ title = "The Floss Uzbekistan RFC Book"
 [output.html]
 no-section-label = true
 git-repository-url = "https://github.com/floss-uz/standards"
-site-url = "/standards/"
+site-url = "/"
 
 [output.html.search]
 heading-split-level = 0
