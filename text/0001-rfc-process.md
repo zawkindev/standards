@@ -79,7 +79,7 @@ Whomever merges the RFC should do the following:
   has multiple pull requests associated with it, choose one PR number,
   preferably the minimal one.)
 - Add the file in the `text/` directory.
-- Create a corresponding issue on [STD repo](https://github.com/floss-uz/stds)
+- Create a corresponding issue on [STD repo](https://github.com/floss-uz/standards)
 - Fill in the remaining metadata in the RFC header, including links for
   the original pull request(s) and the newly created STD issue.
 - Add an entry in the [Active RFC List] of the root `README.md`.
