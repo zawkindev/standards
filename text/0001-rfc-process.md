@@ -117,5 +117,5 @@ As an alternative, we could adopt an even stricter RFC process than the one prop
    informal RFC process?
 3. Should we retain rejected RFCs in the archive?
 
-[core team]: https://t.me/c/2054014332/2
+[core team]: https://matrix.to/#/#stds:floss.uz
 [PEP]: http://legacy.python.org/dev/peps/pep-0001/
