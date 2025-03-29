@@ -1,10 +1,10 @@
 [book]
-title = "The UDC RFC Book"
+title = "The Floss Uzbekistan RFC Book"
 
 [output.html]
 no-section-label = true
-git-repository-url = "https://github.com/udc-org/rfcs"
-site-url = "/rfcs/"
+git-repository-url = "https://github.com/floss-uz/standards"
+site-url = "/standards/"
 
 [output.html.search]
 heading-split-level = 0
