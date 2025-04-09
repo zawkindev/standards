@@ -1,6 +1,6 @@
 - Standartization Name: Shaping up what it means to be a community
 - Start Date: 2025-04-09
-- RFC PR: [floss-uz/standards#0000](https://github.com/floss-uz/standards/pull/0000)
+- RFC PR: [floss-uz/standards#0003](https://github.com/floss-uz/standards/pull/3)
 - STD Issue: [floss-uz/standards#0002](https://github.com/floss-uz/standards/issues/2)
 
 # Summary
