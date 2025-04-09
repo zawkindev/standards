@@ -18,7 +18,7 @@ we need to develop self-discipline when it comes to changing
 the system. This is a proposal for a principled RFC process to make
 it an integral part of the overall development process and one that
 is followed consistently to introduce standardizations to Uzbek communities
-under Uzbek Developer Consortium.
+under Uzbek Floss Organization.
 
 # Detailed design
 
@@ -86,7 +86,7 @@ Whomever merges the RFC should do the following:
 - Commit everything.
 
 Once an RFC becomes active then authors may implement it and submit the
-feature as a pull request to the Rust repo. An 'active' is not a rubber
+feature as a pull request to corresponding repos. An 'active' is not a rubber
 stamp, and in particular still does not mean the feature will ultimately
 be merged; it does mean that in principle all the major stakeholders
 have agreed to the feature and are amenable to merging it.
