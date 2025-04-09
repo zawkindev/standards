@@ -62,7 +62,7 @@ Uzbekistan.
 - If you don't have website, reserve a domain at .uz TLD for your community to later use in website.
 - Use your domain to verify your github organization.
 - If you don't have a website, initiate a repository at github organization and create very basic at least html and deploy it.
-- Upon completing the steps above, reach Floss Uzbekistan chair via either Telegram chat at @flossuzc or open a discussion at Github.
+- Upon completing the steps above, reach Floss Uzbekistan chair via either Telegram chat at [@flossuzc] or [open a discussion at Github].
 
 **Further extra-steps to perform after getting accepted:**
 
@@ -85,4 +85,6 @@ current implementation is not fully complete and is subjected to further
 modifications based on upcoming experience.
 
 [Uzbek Open Source]: https://github.com/floss-uz
+[@flossuzc]: https://t.me/flossuzc
+[open a discussion at Github]: https://github.com/orgs/floss-uz/discussions
 [@flossuzbot]: https://t.me/flossuzbot
