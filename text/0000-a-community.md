@@ -22,7 +22,7 @@ Floss Uzbekistan".
 
 # Detailed design
 
-We, a standing current comittees of Uzbek Open Source decided that a community
+We, a standing current committees of Uzbek Open Source decided that a community
 should have at least 50 members, 10 active members and 2 moderators (including owner)
 if it is a chat based community. It is suggested to have a GitHub organization if the
 joining community is about:
@@ -39,13 +39,13 @@ After acceptance, if community doesn't have a telegram assistant, the community 
 a telegram bot which helps members with accessing useful links, information about the
 technology their focusing on and also links to website and github organization.
 
-The community must invite Floss Uzbekistan's telegram bot @X to their chat to let users
+The community must invite Floss Uzbekistan's telegram bot [@flossuzbot] to their chat to let users
 easily switch over other communities and bond stronger relationship with other communities.
 
 The optional requirements must be satisfied as soon as the community gets accepted to
 Floss Uzbekistan. Otherwise, if community refuses or will not implement given requirements
 in given time, the comittee still can decline and remove the community from the network.
-Afterwards, the community might be subjected to changes proposed by the comittees of Floss
+Afterwards, the community might be subjected to changes proposed by the committees of Floss
 Uzbekistan.
 
 # Guide-level explanation
@@ -83,3 +83,4 @@ current implementation is not fully complete and is subjected to further
 modifications based on upcoming experience.
 
 [Uzbek Open Source]: https://github.com/floss-uz
+[@flossuzbot]: https://t.me/flossuzbot
