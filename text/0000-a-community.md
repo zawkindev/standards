@@ -22,10 +22,9 @@ Floss Uzbekistan".
 
 # Detailed design
 
-We, a standing current committees of Uzbek Open Source decided that a community
-should have at least 50 members, 10 active members and 2 moderators (including owner)
-if it is a chat based community. It is suggested to have a GitHub organization if the
-joining community is about:
+We, a standing current committees of Uzbek Open Source, suggest that a chat-based community should
+have around 50 members, approximately 10 active members and about 2 moderators (including owner).
+It is suggested to have a GitHub organization if the joining community is about:
 
 - a programming language
 - a techgnology that is a domain to many others
@@ -41,6 +40,9 @@ technology their focusing on and also links to website and github organization.
 
 The community must invite Floss Uzbekistan's telegram bot [@flossuzbot] to their chat to let users
 easily switch over other communities and bond stronger relationship with other communities.
+
+**These are suggestions to guide community structure, with the final decision to be determined by
+the council.**
 
 The optional requirements must be satisfied as soon as the community gets accepted to
 Floss Uzbekistan. Otherwise, if community refuses or will not implement given requirements
