@@ -1,7 +1,7 @@
 - Standartization Name: The culture we hold on dear
 - Start Date: 2025-04-12
-- RFC PR: [floss-uz/standards#0000](https://github.com/floss-uz/standards/pull/0000)
-- STD Issue: [floss-uz/standards#0000](https://github.com/floss-uz/standards/issues/0000)
+- RFC PR: [floss-uz/standards#0004](https://github.com/floss-uz/standards/pull/4)
+- STD Issue: [floss-uz/standards#0005](https://github.com/floss-uz/standards/issues/5)
 - Severity: MUST
 
 # Summary
