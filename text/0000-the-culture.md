@@ -66,7 +66,7 @@ Assuming that you have been following through all past standards, you MUST have 
 
 [drawbacks]: #drawbacks
 
-There is a chance that there be implemented certain **"MUST"** standards which might not be warmly
+There is a chance that there might be implemented certain **"MUST"** standards which might not be warmly
 welcomed by majority of Floss Uzbekistan communities. Therefore, chair party must take some precautions
 and carefully implement standards to keep the balance.
 
@@ -82,5 +82,5 @@ and carefully implement standards to keep the balance.
 [future-possibilities]: #future-possibilities
 
 For the time being, the current RFC is limited to only **"MUST"** and **"OPTIONAL"** labels.
-There might be added new labels for "Severity" in foreseable future to cmoplete the necessities
+There might be added new labels for "Severity" in foreseable future to complete the necessities
 of communities.
