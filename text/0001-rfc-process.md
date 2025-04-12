@@ -1,8 +1,11 @@
 - Start Date: 2023-12-18
 - RFC PR: N/A
 - STD Issue: N/A
+- Severity: MUST
 
 # Summary
+
+[summary]: #summary
 
 The RFC (request for comments) process is intended to provide a
 consistent and controlled path for new features to enter the project
@@ -10,6 +13,8 @@ and communities so that the whole Uzbek IT community and its developers
 can be confident about the direction the community is evolving in.
 
 # Motivation
+
+[motivation]: #motivation
 
 The freewheeling way that Uzbek developers adopt behaviors from other
 countries' cultures has been good for our developer ecosystem in early
@@ -22,6 +27,8 @@ under Uzbek Floss Organization.
 
 # Detailed design
 
+[detailed-design]: #detailed-design
+
 Many changes, including typo fixes and documentation improvements can be
 implemented and reviewed via the regular GitHub pull request workflow.
 
@@ -30,6 +37,8 @@ through a bit of a design process and produce a consensus among the Floss
 Uzbekistan community and the [core team].
 
 ## When you need to follow this process
+
+[when-you-need-to-follow-this-process]: #when-you-need-to-follow-this-process
 
 You need to follow this process if you intend to make 'substantial'
 changes to the Floss Uzbekistan distribution. What constitutes a 'substantial'
@@ -52,6 +61,8 @@ through the RFC process, it may be closed with a polite request to
 submit an RFC first.
 
 ## What the process is
+
+[what-the-process-is]: #what-the-process-is
 
 In short, to get a major change added to Floss Uzbekistan, one must first get the
 RFC merged into the RFC repo as a markdown file. At that point the RFC
@@ -100,6 +111,8 @@ after becoming active is 'inactive' and moves to the 'inactive' folder.
 
 # Alternatives
 
+[alternatives]: #alternatives
+
 Retain the current informal RFC process. The newly proposed RFC process is
 designed to improve over the informal process in the following ways:
 
@@ -111,6 +124,8 @@ designed to improve over the informal process in the following ways:
 As an alternative, we could adopt an even stricter RFC process than the one proposed here. If desired, we should likely look to Python's [PEP] process for inspiration.
 
 # Unresolved questions
+
+[unresolved-questions]: #unresolved-questions
 
 1. Does this RFC strike a favorable balance between formality and agility?
 2. Does this RFC successfully address the aforementioned issues with the current

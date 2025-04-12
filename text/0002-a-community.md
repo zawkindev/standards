@@ -2,8 +2,11 @@
 - Start Date: 2025-04-09
 - RFC PR: [floss-uz/standards#0003](https://github.com/floss-uz/standards/pull/3)
 - STD Issue: [floss-uz/standards#0002](https://github.com/floss-uz/standards/issues/2)
+- Severity: MUST
 
 # Summary
+
+[summary]: #summary
 
 This RFC explains what it means to be a part of [Uzbek Open Source]
 (a.k.a Floss Uzbekistan) community and the requirements a community
@@ -11,6 +14,8 @@ SHOULD meet before they join or become a representative member of
 [Uzbek Open Source] community.
 
 # Motivation
+
+[motivation]: #motivation
 
 Over the last few weeks, we greeted many existing developer communities to
 Uzbek Open Source community. However, due to constantly changing shape of
@@ -21,6 +26,8 @@ misunderstanding on explanation of "What it means to be a community inside
 Floss Uzbekistan".
 
 # Detailed design
+
+[detailed-design]: #detailed-design
 
 We, a standing current committees of Uzbek Open Source, suggest that a chat-based community MUST
 have around 50 members, approximately 10 active members and about 2 moderators (including owner).
@@ -57,6 +64,8 @@ Uzbekistan.
 
 # Guide-level explanation
 
+[guide-level-explanation]: #guide-level-explanation
+
 **Basic requirements before a community joins our network:**
 
 - Make sure you have a telegram chat community with 50+ members in it.
@@ -79,10 +88,14 @@ Uzbekistan.
 
 # Unresolved questions
 
+[unresolved-questions]: #unresolved-questions
+
 - Does this RFC cover all type of community effort?
 - Does this RFC make community acceptance smooth enough?
 
 # Future possibilities
+
+[future-possibilities]: #future-possibilities
 
 The current RFC already addresses the core issue with community's joining
 process. However, things that should be implemented throughout the proccess
