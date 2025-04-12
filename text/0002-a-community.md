@@ -7,7 +7,7 @@
 
 This RFC explains what it means to be a part of [Uzbek Open Source]
 (a.k.a Floss Uzbekistan) community and the requirements a community
-should meet before they join or become a representative member of
+SHOULD meet before they join or become a representative member of
 [Uzbek Open Source] community.
 
 # Motivation
@@ -15,37 +15,42 @@ should meet before they join or become a representative member of
 Over the last few weeks, we greeted many existing developer communities to
 Uzbek Open Source community. However, due to constantly changing shape of
 every community, it was decided to create and RFC that explicitly explains
-the requirements that a new joining community should meet or how a pre-existing
-community should shape up to. This RFC will prevent any further confuses and
+the requirements that a new joining community MUST meet or how a pre-existing
+community SHOULD shape up to. This RFC will prevent any further confuses and
 misunderstanding on explanation of "What it means to be a community inside
 Floss Uzbekistan".
 
 # Detailed design
 
-We, a standing current committees of Uzbek Open Source, suggest that a chat-based community should
+We, a standing current committees of Uzbek Open Source, suggest that a chat-based community MUST
 have around 50 members, approximately 10 active members and about 2 moderators (including owner).
-It is suggested to have a GitHub organization if the joining community is about:
+It is MUST to have a GitHub organization if the joining community is about:
 
 - a programming language
 - a techgnology that is a domain to many others
 - an aggregator to multiple other chat based communities
 
-Also, the member community should have a website showing representatives of the community,
-the list of member sub-communities (any type) and the ongoing active projects with a link
-to GitHub repositories and GitHub organization.
+Also, the member community SHOULD have a website showing representatives of the community,
+the list of member sub-communities (any type) and the ongoing active projects with links
+to GitHub repositories and the GitHub organization.
 
-After acceptance, if community doesn't have a telegram assistant, the community must implement
+After acceptance, if community doesn't have a telegram assistant, the community MUST implement
 a telegram bot which helps members with accessing useful links, information about the
-technology their focusing on and also links to website and github organization.
+technology they are focusing on and also links to website and github organization.
 
-The community must invite Floss Uzbekistan's telegram bot [@flossuzbot] to their chat to let users
-easily switch over other communities and bond stronger relationship with other communities.
+It's also worth to mention that either telegram chat or GitHub organization MUST NOT be deleted
+at any cost as these two elements represent the community and its efforts as a member of Floss
+Uzbekistan.
+
+The community MUST invite Floss Uzbekistan's telegram bot [@flossuzbot] to their chat to let users
+easily switch over other Floss Uzbekistan supported communities and bond stronger relationship with
+other communities.
 
 **These are suggestions to guide community structure, with the final decision to be determined by
 the council.**
 
-The optional requirements must be satisfied as soon as the community gets accepted to
-Floss Uzbekistan. Otherwise, if community refuses or will not implement given requirements
+The optional requirements MUST be satisfied as soon as the community gets accepted to
+Floss Uzbekistan. Otherwise, if community refuses or does not implement given requirements
 in given time, the comittee still can decline and remove the community from the network.
 Afterwards, the community might be subjected to changes proposed by the committees of Floss
 Uzbekistan.
@@ -55,7 +60,7 @@ Uzbekistan.
 **Basic requirements before a community joins our network:**
 
 - Make sure you have a telegram chat community with 50+ members in it.
-- Your community should exist more than 3 months.
+- Your community MUST exist more than 3 months.
 - Check if at least 10 people are keeping it active on daily basis.
 - See if you have 2 moderators that are maintaining chats.
 - Then check if you have a GitHub organization to represent your community, if you don't have one, create it.
@@ -67,9 +72,10 @@ Uzbekistan.
 **Further extra-steps to perform after getting accepted:**
 
 - Let your community member know that the community has became a member of Floss Uzbekistan network.
-- Organize your GitHub organization
-- If you don't have an assistant telegram bot for your community, implement it alongside website and finish as soon as possible.
-- Alter team changes to Floss Uzbeksitan's website and other sources.
+- Add [@flossuzbot] to your community chat.
+- Organize your GitHub organization and create necessary projects
+- If you don't have an assistant telegram bot in your community, implement it alongside website and finish as soon as possible.
+- Alter team changes to Floss Uzbeksitan's website and other sources by adding chair and maintainer or request a Floss maintainer to do it for you.
 
 # Unresolved questions
 
