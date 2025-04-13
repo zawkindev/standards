@@ -19,7 +19,7 @@ keep healthy culture of your community at the same time.
 [motivation]: #motivation
 
 Every community is developed and shaped differently and is unique to itself. The generalized term
-of culture is known to be a set unwritten rules and suggestions developed depending on community's
+of culture is known to be a set of rules and suggestions developed depending on community's
 values. Forcing all communities to obey a single source of rules would do serious and vicious impact
 on communities' balances. In order to find a balance between standards and culture, this RFC was
 proposed to give communities opportunity to not adopt certain **"OPTIONAL"** standards.
@@ -35,7 +35,7 @@ is not within council party, the standard's severity may be subjected to changes
 accepted.
 
 A community chair, or maintainer MUST create **".github"** repository in their GitHub organization with
-**"CODE_OF_CONDUCT.md"** file in the repository. The code of conduct MUST have **"Rejected Standards"**
+**"RULES.md"** file in the repository. The code of conduct MUST have **"Rejected Standards"**
 section in the file showing all **"OPTIONAL"** standards refused by the community. Also, the code of conduct
 file MUST includes all internal rules and cultural changes created and maintained by the community itself
 in **"Internal Rules"** section which must be obeyed by the members of culture. It is up to chair or
@@ -58,7 +58,7 @@ As your PR goes through review process, the Severity may change depending on cou
 Assuming that you have been following through all past standards, you MUST have a GitHub organization.
 
 - Create **".github"** repository in your community's GitHub organization.
-- Bootstrap default branch in the repository and create **"CODE_OF_CONDUCT.md"** file.
+- Bootstrap default branch in the repository and create **"RULES.md"** file.
 - If you would like to refuse certain **"OPTIONAL"** standards and rules maintained by Floss Uzbekistan, define **"Rejected Standards"** section and list all rejected rules and standards with their links to the document.
 - If you would like to define your own set of rules and change behavior of certain **"OPTIONAL"** standards, define **"Internal Rules"** section and list all your own or custom rules and standards.
 
@@ -68,7 +68,8 @@ Assuming that you have been following through all past standards, you MUST have 
 
 There is a chance that there might be implemented certain **"MUST"** standards which might not be warmly
 welcomed by majority of Floss Uzbekistan communities. Therefore, chair party must take some precautions
-and carefully implement standards to keep the balance.
+and carefully implement standards **step-by-step** following all procedures to avoid possible backlashes and
+keep the balance.
 
 # Unresolved questions
 
