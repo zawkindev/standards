@@ -35,8 +35,8 @@ is not within council party, the standard's severity may be subjected to changes
 accepted.
 
 A community chair, or maintainer MUST create **".github"** repository in their GitHub organization with
-**"RULES.md"** file in the repository. The code of conduct MUST have **"Rejected Standards"**
-section in the file showing all **"OPTIONAL"** standards refused by the community. Also, the code of conduct
+**"RULES.md"** file in the repository. There MUST be RULES.md with **"Rejected Standards"**
+section in the file showing all **"OPTIONAL"** standards refused by the community. Also, RULES.md
 file MUST includes all internal rules and cultural changes created and maintained by the community itself
 in **"Internal Rules"** section which must be obeyed by the members of culture. It is up to chair or
 maintainer's decision whether how to distribute the rules among community members, let it be telegram
